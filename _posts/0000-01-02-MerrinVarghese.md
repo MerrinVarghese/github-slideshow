@@ -6,6 +6,6 @@ title: "Welcome to oursecond slide!"
 
 ---
 
-Have a good day
+Be happy and positive!!!
 
 Use the left arrow to go back!
